@@ -38,12 +38,19 @@ The generated report contains multiple sheets:
 
 ## 📌 Business Insights
 This analysis provides insights into current hiring patterns and workforce trends in the job market:
+
 The highest demand is for candidates with 2–5 years of experience, indicating that companies prefer professionals who already have practical industry exposure rather than fresh graduates or highly senior profiles.
+
 Technical skills such as JavaScript, SQL, HTML, and Python remain core hiring priorities, reflecting the continued need for web development, data processing, and software engineering talent.
+
 A significant number of openings exist in Sales and Business Development roles, suggesting that many organizations are focusing on market expansion, client acquisition, and revenue growth activities.
+
 Demand for roles such as PHP Developer, Java Developer, and Software Engineer highlights ongoing investment in product development and application maintenance.
+
 The presence of roles like Graphic Designer and Content Writer shows that companies are also prioritizing digital marketing, content creation, and brand presence.
+
 Consistent demand for IT support and infrastructure skills (Linux, MySQL, Technical Support) indicates the importance of maintaining stable operations and internal systems.
+
 Overall, hiring trends suggest a balanced workforce demand across technical, business, and support functions, rather than being concentrated only in IT roles.
 
 ## 💼 Use Case
